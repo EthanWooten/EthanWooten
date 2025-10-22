@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan Wooten</h1>
 <h3 align="center">An aspiring software developer driven by curiosity and a love for building things with code.</h3>
 
-- 🔭 I’m currently working on a portfolio to describe a little more about me **My Portfolio**
+- 🔭 I’m currently working on extentions to my **Blackjack Project**
 
-- 🌱 I’m currently learning **The different languages of code**
+- 🌱 I’m currently learning **How to efficiently use IntelliJ**
 
 - 💬 Ask me about **Why code interests me, My future goals, etc.**
 

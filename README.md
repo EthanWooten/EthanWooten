@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ethan Wooten</h1>
 <h3 align="center">An aspiring software developer driven by curiosity and a love for building things with code.</h3>
 
-- 🔭 I’m currently working on extentions to my **Blackjack Project**
+- 🔭 I’m currently working on learning Java **Lists and Collections**
 
 - 🌱 I’m currently learning **How to efficiently use IntelliJ**
 

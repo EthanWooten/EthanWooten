@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ethan Wooten</h1>
 <h3 align="center">An aspiring software developer driven by curiosity and a love for building things with code.</h3>
 
-- 🔭 I’m currently working on learning Java **Lists and Collections**
+- 🔭 I’m currently working on **Mini Coding Projects!**
 
-- 🌱 I’m currently learning **How to efficiently use IntelliJ**
+- 🌱 I’m currently learning **HashMaps and List Properties of Java**
 
 - 💬 Ask me about **Why code interests me, My future goals, etc.**
 
